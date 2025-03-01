@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilangRiskyM
 - 👀 I’m interested in Website Development and Tech Enthusiast
-- 🌱 I’m currently learning Laravel 11 and NodeJS
+- 🌱 I’m currently learning Laravel 12, React JS, Vue JS, and Inertia JS
 - 💞️ I’m looking to collaborate on website development
 
 <!---
